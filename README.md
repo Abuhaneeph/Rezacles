@@ -100,7 +100,7 @@ Referee |   Referee first upline | Referee second upline | Referee third upline 
 + Click on the Navigation bar
 + Click on the Launch App Button
 + Click on the Register button to use the dApp
-+ 0.001 MATIC will be deducted from your wallet
++ 0.01 MATIC will be deducted from your wallet
 + After Registration, You will be given referral ID
 + After Every 10 mins, You can Upgrade your Rez Level to earn REZTOKEN
 + Your Uplines will earn from the staked matic deducted from the Registered user wallet
