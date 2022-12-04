@@ -94,3 +94,14 @@ Rez user |Referee | Referee first upline | Referee second upline | Referee third
 Referee |   Referee first upline | Referee second upline | Referee third upline | Referee fourth upline | Referre fifth upline
 
 [Link for Demo Video Rezacles ](https://vimeo.com/777835382/5ecf31ac52)
+
+### How to use the dApp
++ Click on the [Website Link](https://rezacles-testnet.netlify.app)
++ Click on the Navigation bar
++ Click on the Launch App Button
++ Click on the Register button to use the dApp
++ 0.05 MATIC will be deducted from your wallet
++ After Registration, You will be given referral ID
++ After Every 10 mins, You can Upgrade your Rez Level to earn REZTOKEN
++ Your Uplines will earn from the staked matic deducted from the Registered user wallet
++ You can also earn when users you referred ascend their Level
