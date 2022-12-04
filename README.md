@@ -35,6 +35,15 @@ Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 --- | --- | --- | --- | --- | --- 
 Rez User | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
+##### The Registered User will Upgrade his/her Rez Level after every 10 minutes,After Ascension of Rez Level The Below reward will be distributed to Rez user and his/her Uplines 
+
+Level | 1 | 2 |3 |4 |5 
+--- | --- | --- | --- | --- | --- 
+Ascension Fee  | 0.001 MATIC | 0.001 MATIC |0.001 MATIC | 0.001 MATIC | 0.001 MATIC
+Recipient | 1st Upline | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
+Rez User | 1000 REZTOKEN | 2000 REZTOKEN | 3000 REZTOKEN | 4000 REZTOKEN | 5000 REZTOKEN
+
+
 
 
 
