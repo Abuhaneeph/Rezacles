@@ -17,6 +17,7 @@ Rezacles is a referral-based staking pool that has unique compensation plan that
 
 ##### The Recipient fee is rewarded to the Upline at that generation while the REZTOKEN is given to the Rez user
  
+ Generation | 1st | 2nd | 3rd | 4th | 5th
  Level | 1 | 2 |3 |4 |5 
 --- | --- | --- | --- | --- | --- 
 Ascension Fee  | 0.001 MATIC | 0.001 MATIC |0.001 MATIC | 0.001 MATIC | 0.001 MATIC
