@@ -18,8 +18,8 @@ Rezacles is a referral-based staking pool that has unique compensation plan that
 ##### The Recipient fee is rewarded to the Upline at that generation while the REZTOKEN is given to the Rez user
  
  Generation | 1st | 2nd | 3rd | 4th | 5th
+ :---: | :---: | :---: | :---: | :---: | :---: 
  Level | 1 | 2 |3 |4 |5 
---- | --- | --- | --- | --- | --- 
 Ascension Fee  | 0.001 MATIC | 0.001 MATIC |0.001 MATIC | 0.001 MATIC | 0.001 MATIC
 Recipient | 1st Upline | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 Rez User | 1000 REZTOKEN | 2000 REZTOKEN | 3000 REZTOKEN | 4000 REZTOKEN | 5000 REZTOKEN
@@ -32,7 +32,7 @@ Rez User | 1000 REZTOKEN | 2000 REZTOKEN | 3000 REZTOKEN | 4000 REZTOKEN | 5000 
 
 ***
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez User | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
  
@@ -49,21 +49,21 @@ Rez User | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 + C.O.A serve as the Referee Upline in Five Generation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez User | Referee | C.O.A | C.O.A | C.O.A | C.O.A
 Referee | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
 + C.O.A serve as the Referee in all the Four Genereation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez User | Referre | Referre first upline| C.O.A | C.O.A | C.O.A
 Referre | Referee upline  |  C.O.A | C.O.A | C.O.A | C.O.A
 
 + C.O.A serve as the Referee in all the Three Generation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez user | Referee | Referee first upline | Referee second upline | C.O.A | C.O.A
 Referee |Referee first upline | Referee second upline | C.O.A | C.O.A| C.O.A
 
@@ -71,7 +71,7 @@ Referee |Referee first upline | Referee second upline | C.O.A | C.O.A| C.O.A
 + C.O.A serve as the Referee in all the Two Generation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez user |  Referee | Referee first upline | Referee second upline | Referee third upline | C.O.A
 Referee | Referee first upline | Referee second upline | Referee third upline | C.O.A | C.O.A
 
@@ -79,7 +79,7 @@ Referee | Referee first upline | Referee second upline | Referee third upline | 
 + C.O.A serve as the Referee in all the One Generation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez user |  Referee | Referee first upline | Referee second upline | Referee third upline | Referee fourth upline
 Referee |  Referee first upline | Referee second upline | Referee third upline | Referee fourth upline | C.O.A
 
@@ -87,6 +87,6 @@ Referee |  Referee first upline | Referee second upline | Referee third upline |
 + C.O.A serve as the Referee in all the none of the Generation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
---- | --- | --- | --- | --- | --- 
+:---: | :---: | :---: | :---: | :---: | :---: 
 Rez user |Referee | Referee first upline | Referee second upline | Referee third upline | Referee fourth upline
 Referee |   Referee first upline | Referee second upline | Referee third upline | Referee fourth upline | Referre fifth upline
