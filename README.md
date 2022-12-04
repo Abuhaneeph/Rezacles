@@ -11,7 +11,7 @@ Rezacles is a referral-based staking pool that has unique compensation plan that
 + Downline: A User that register with someone else referral ID
 + C.O.A: Contract Owner's Address
  
- ### Rez user that registered without referral ID will have C.O.A as the Upline in Five Generation
+ ### Rez users that registered without referral ID will have C.O.A as the Uplines in Five Generation
 
 ***
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
@@ -21,9 +21,8 @@ Rez User | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
 
 
-#### Rez user Upline is generated based on how many generation the Contract Owner's Address serve as the Referee Upline
+#### For Rez users that registered with referral ID,There Uplines is generated based on how many generation the Contract Owner's Address serve as the Referee Upline
 ***
-##### Any Rez user that register with referral ID,The Upline for that user is determined by the below technique
 
 + C.O.A serve as the Referee Upline in Five Generation
 
