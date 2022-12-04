@@ -46,21 +46,21 @@ Rez User | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 ### While Rez users that registered with referral ID,There Uplines is generated based on how many generation the Contract Owner's Address served as the Referee Upline
 ***
 
-+ C.O.A serve as the Referee Upline in Five Generation
++ **C.O.A serve as the Referee Upline in Five Generation**
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
 Rez User | Referee | C.O.A | C.O.A | C.O.A | C.O.A
 Referee | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
-+ C.O.A serve as the Referee Upline in Four Generaions(2nd,3rd,4th and 5th)
++ **C.O.A serve as the Referee Upline in Four Generaions(2nd,3rd,4th and 5th)**
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
 Rez User | Referre | Referre first upline| C.O.A | C.O.A | C.O.A
 Referre | Referee upline  |  C.O.A | C.O.A | C.O.A | C.O.A
 
-+ C.O.A serve as the Referee Upline in Three Generations (3rd,4th and 5th)
++ **C.O.A serve as the Referee Upline in Three Generations (3rd,4th and 5th)**
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
@@ -68,7 +68,7 @@ Rez user | Referee | Referee first upline | Referee second upline | C.O.A | C.O.
 Referee |Referee first upline | Referee second upline | C.O.A | C.O.A| C.O.A
 
 
-+ C.O.A serve as the Referee Upline in Two Generations (4th and 5th)
++ **C.O.A serve as the Referee Upline in Two Generations (4th and 5th)**
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
@@ -76,7 +76,7 @@ Rez user |  Referee | Referee first upline | Referee second upline | Referee thi
 Referee | Referee first upline | Referee second upline | Referee third upline | C.O.A | C.O.A
 
 
-+ C.O.A serve as the Referee Upline in only One Generation (5th)
++ **C.O.A serve as the Referee Upline in only One Generation (5th)**
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
@@ -84,7 +84,7 @@ Rez user |  Referee | Referee first upline | Referee second upline | Referee thi
 Referee |  Referee first upline | Referee second upline | Referee third upline | Referee fourth upline | C.O.A
 
 
-+ C.O.A is absent in all of the generation
++ **C.O.A is absent in all of the Generations**
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
