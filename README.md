@@ -15,14 +15,13 @@ Rezacles is a referral-based staking pool that has unique compensation plan that
  ## Our Family Tree
  Our Referral system is like a family tree that has a generation of children, grand-children, great grand-children it has 5 generations. The first generation is the generation of you and your children and you can personally have as many children as you are capable of in this generation.Your second generation is the generation of your grand child. Your Children can have as many grandchildren for you. There is no limit.This way, your family tree will continue to expand and you can have up to 5 generations.In this Family Your ancestors are your uplines and it has been part of your family tradition for ages for everyone to take a visit to their ancestors and go along with a gift.You have five generations of ancestors. In your ancestral tree you parent are your first upline generation and your grand parents are your second upline generation.In your Journey to visit them, you have a gift for each of them and this gift is 0.001 MATIC for each of them. The 0.001 MATIC seems small, remember they have several children and grandchildren in their family tree each gifting them this amount and as part of your family tradition.You can only spend spend 10 minutes with an ancestor before moving on the next one and You also earn reward from each ancestor you visit (REZTOKEN)
 
+##### The Recipient fee is rewarded to the Upline at that generation while the REZTOKEN is given to the Rez user
  
- 
- 
- 
- 
- 
- 
- 
+ Level | 1 | 2 |3 |4 |5 
+--- | --- | --- | --- | --- | --- 
+Ascension Fee  | 0.001 MATIC | 0.001 MATIC |0.001 MATIC | 0.001 MATIC | 0.001 MATIC
+Recipient | 1st Upline | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
+Rez User | 1000 REZTOKEN | 2000 REZTOKEN | 3000 REZTOKEN | 4000 REZTOKEN | 5000 REZTOKEN
  
  
  
@@ -35,13 +34,9 @@ Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 --- | --- | --- | --- | --- | --- 
 Rez User | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
-##### The Registered User will Upgrade his/her Rez Level after every 10 minutes,After Ascension of Rez Level The Below reward will be distributed to Rez user and his/her Uplines 
+ 
 
-Level | 1 | 2 |3 |4 |5 
---- | --- | --- | --- | --- | --- 
-Ascension Fee  | 0.001 MATIC | 0.001 MATIC |0.001 MATIC | 0.001 MATIC | 0.001 MATIC
-Recipient | 1st Upline | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
-Rez User | 1000 REZTOKEN | 2000 REZTOKEN | 3000 REZTOKEN | 4000 REZTOKEN | 5000 REZTOKEN
+
 
 
 
