@@ -1,5 +1,5 @@
 # Rezacles
-Rezacles is a referral-based staking pool that has unique compensation plan that reward members for onboarding new users into the community.Users that register with the contract without using referral ID becomes the Contract Downlines While Users that register with another rez User referral ID becomes the User first generation downline.
+Rezacles is a referral-based staking pool that has unique compensation plan that reward members for onboarding new users into the community.Users that register with the contract without using referral ID becomes the Contract Downlines While Users that register with another Rez User referral ID becomes the User first generation downline.
 # Key Terms in Rezacles
 + First Upline: The Address of the user that referred you or the Contract Owner's Address
 + Second Upline: The Address of the user that referred the first upline or the Contract Owner's Address
