@@ -28,7 +28,7 @@ Rez User | 1000 REZTOKEN | 2000 REZTOKEN | 3000 REZTOKEN | 4000 REZTOKEN | 5000 
  
  
  
- ### Rez users that registered without referral ID, C.O.A will served as the Uplines in Five Generation
+ ### Rez users that registered without referral ID, C.O.A will served as the Uplines in all the Five Generation
 
 ***
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
