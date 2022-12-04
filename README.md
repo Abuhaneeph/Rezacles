@@ -53,14 +53,14 @@ Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 Rez User | Referee | C.O.A | C.O.A | C.O.A | C.O.A
 Referee | C.O.A | C.O.A | C.O.A | C.O.A | C.O.A
 
-+ C.O.A serve as the Referee in all the Four Genereation
++ C.O.A serve as the Referee in Four Generaions(2nd,3rd,4th and 5th)
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
 Rez User | Referre | Referre first upline| C.O.A | C.O.A | C.O.A
 Referre | Referee upline  |  C.O.A | C.O.A | C.O.A | C.O.A
 
-+ C.O.A serve as the Referee in all the Three Generation
++ C.O.A serve as the Referee in Three Generations (3rd,4th and 5th)
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
@@ -68,7 +68,7 @@ Rez user | Referee | Referee first upline | Referee second upline | C.O.A | C.O.
 Referee |Referee first upline | Referee second upline | C.O.A | C.O.A| C.O.A
 
 
-+ C.O.A serve as the Referee in all the Two Generation
++ C.O.A serve as the Referee in Two Generations (4th and 5th)
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
@@ -76,7 +76,7 @@ Rez user |  Referee | Referee first upline | Referee second upline | Referee thi
 Referee | Referee first upline | Referee second upline | Referee third upline | C.O.A | C.O.A
 
 
-+ C.O.A serve as the Referee in all the One Generation
++ C.O.A serve as the Referee in only Generation (5th)
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
@@ -84,7 +84,7 @@ Rez user |  Referee | Referee first upline | Referee second upline | Referee thi
 Referee |  Referee first upline | Referee second upline | Referee third upline | Referee fourth upline | C.O.A
 
 
-+ C.O.A serve as the Referee in all the none of the Generation
++ C.O.A serve as the Referee in none of the Generation
 
 Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
