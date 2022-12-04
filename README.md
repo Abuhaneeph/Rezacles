@@ -1,4 +1,4 @@
-[Github Link for Rezacles Frontend ](https://github.com/Abuhaneeph/REZACLES-DAPP-CLIENT)
+[Github Link for Rezacles Frontend Code ](https://github.com/Abuhaneeph/REZACLES-DAPP-CLIENT)
 
 # Rezacles
 Rezacles is a referral-based staking pool that has unique compensation plan that reward members for onboarding new users into the community.Users that register with the contract without using referral ID becomes the Contract Downlines While Users that register with another Rez User referral ID becomes the User first generation downline.
