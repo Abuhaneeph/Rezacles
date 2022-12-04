@@ -90,3 +90,5 @@ Rez  |1st Upline  | 2nd Upline | 3rd Upline | 4th Upline | 5th Upline
 :---: | :---: | :---: | :---: | :---: | :---: 
 Rez user |Referee | Referee first upline | Referee second upline | Referee third upline | Referee fourth upline
 Referee |   Referee first upline | Referee second upline | Referee third upline | Referee fourth upline | Referre fifth upline
+
+[Link for Demo Video Rezacles ](https://vimeo.com/777835382/5ecf31ac52)
